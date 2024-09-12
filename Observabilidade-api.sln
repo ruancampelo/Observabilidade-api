@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observabilidade-api", "Observabilidade-api.csproj", "{C26918B9-B912-47C3-A0E2-DE4A4975C1FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{188A4A40-CE7F-409C-9EB9-FA63D90D37C9}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C26918B9-B912-47C3-A0E2-DE4A4975C1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26918B9-B912-47C3-A0E2-DE4A4975C1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26918B9-B912-47C3-A0E2-DE4A4975C1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26918B9-B912-47C3-A0E2-DE4A4975C1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@Observabilidade_api_HostAddress = http://localhost:5126
+
+GET {{Observabilidade_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
